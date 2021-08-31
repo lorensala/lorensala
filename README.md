@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Sala</h1>
 <h3 align="center">Currently studying Systems Engineering at Universidad Tecnológica Nacional in Córdoba, Argentina.</h3>
 
-- 🔭 I’m currently working on [Project Manager](https://github.com/lorensala/ProjectManager)
+- 🔭 I’m currently working on [Unigrade](https://github.com/lorensala/unigrade)
 
 - 🌱 I’m currently learning **Flutter & Node.js**
 
