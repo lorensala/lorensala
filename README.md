@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Sala</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
-
-- 🌱 I’m currently learning **React**
+<h3 align="center">A Systems Engineer from Argentina</h3>
 
 - 📫 How to reach me **salalorenzo@outlook.com**
 
