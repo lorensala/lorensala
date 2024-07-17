@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>⭐ Fan of mobile development and UI design<br>💼 Working as a Lead Flutter Developer<br>🛠️ Starting out my own startup.<br>🚀 Trying to learn Astro.js<br>🎸 I'm also a musician</p>
+<p align="left">✨ Creating bugs since 2018<br>⭐ Fan of mobile development and UI design<br>💼 Working as a Technical Mobile Developer<br>🛠️ Starting out my own startup.<br>🚀 Trying to learn Astro.js<br>🎸 I'm also a musician</p>
 
 <p>Check out my <a href="https://lorensala.com"><u>website</u></a> for more information.</p>
 
